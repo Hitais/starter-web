@@ -6,7 +6,7 @@
    Jason Taylor jason@git.in
 
 # THANKS
-all my students
+making changes for the assignment
 
     <name>
 
