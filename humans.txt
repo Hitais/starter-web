@@ -6,7 +6,7 @@
    Jason Taylor jason@git.in
 
 # THANKS
-making changes for the assignment
+Please review this course
 
     <name>
 
