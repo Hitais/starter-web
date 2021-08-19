@@ -6,7 +6,7 @@
    Jason Taylor jason@git.in
 
 # THANKS
-Please review this course
+Please review this course for stash purpose
 
     <name>
 
